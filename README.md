@@ -1,6 +1,6 @@
 # Python-calculator
 
-### Basic calculator using Tkinker
+### Basic calculator using Tkinter
 
 ## When you run the project...
 
