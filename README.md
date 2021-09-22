@@ -4,7 +4,7 @@
 
 ## When you run the project...
 
-<p align="center"><img width="300" src="https://github.com/jpgelmi/Python-calculator/blob/main/image.png" alt="Calculator image"></p>
+<p align="center"><img width="300" src="https://github.com/jpgelmi/Python-calculator/blob/main/assets/image.png" alt="Calculator image"></p>
 
 
 ## Instalation
